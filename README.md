@@ -1,6 +1,3 @@
-CLI Fandom Quiz App: markTwo of lesson 1 taught on neog.camp .
-The Fandom selected: The Big Bng Theory.
-
 # markTwo “Do you know me?” Quiz
 ## Description
 A CLI app built with nodeJS. Do you know "The Big Bang Theory"? Let's play a quiz and see.
